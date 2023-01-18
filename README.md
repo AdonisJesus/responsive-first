@@ -1,2 +1,2 @@
 # responsive-first
-responsive first project
+responsive first project de platzi
